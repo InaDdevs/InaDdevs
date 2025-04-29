@@ -1,5 +1,5 @@
 # Olá, Eu sou Danielly
-Sou um estudante de Análise e Desenvolvimento de Sistemas, com paixão por desenvolvimento back-end utilizando Java. Quando não estou estudando ou trabalhando, adoro compartilhar meus conhecimentos e aprender com a comunidade de desenvolvedores.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com paixão por desenvolvimento back-end utilizando Java. Quando não estou estudando ou trabalhando, adoro compartilhar meus conhecimentos e aprender com a comunidade de desenvolvedores.
 
 **Minhas habilidades:**
 
