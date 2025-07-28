@@ -1,16 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7927F5&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Danielly+Azevedo;I+study+analysis+and+systems+development+at+Puc;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=38&center=true&vCenter=true&width=1000&lines=𝖧𝖾𝗅𝗅𝗈,+𝖬𝗒+𝗇𝖺𝗆𝖾+is+𝖣𝖺𝗇𝗂𝖾𝗅𝗅𝗒+𝖠𝗓𝖾𝗏𝖾𝖽𝗈;I+study+analysis+and+systems+development+at+Puc;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 
 <div align="center">  
 
+  
+[![card](https://github-readme-stats.vercel.app/api?username=InaDdevs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InaDdevs&bg_color=1C1C1C&color=00bfbf&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InaDdevs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=InaDdevs&theme=dracula&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 
@@ -33,5 +39,5 @@
  
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7927F5&height=120&section=footer"/>
 
