@@ -1,8 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7927F5&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=38&center=true&vCenter=true&width=1000&lines=𝖧𝖾𝗅𝗅𝗈,+𝖬𝗒+𝗇𝖺𝗆𝖾+is+𝖣𝖺𝗇𝗂𝖾𝗅𝗅𝗒+𝖠𝗓𝖾𝗏𝖾𝖽𝗈;I+study+analysis+and+systems+development+at+Puc;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 <div align="center">  
-  
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
 [![card](https://github-readme-stats.vercel.app/api?username=InaDdevs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
