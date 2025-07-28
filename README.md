@@ -4,14 +4,14 @@
 
 <div align="center">  
   
-[![card](https://github-readme-stats.vercel.app/api?username=InaDdevs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+[![card](https://github-readme-stats.vercel.app/api?username=InaDdevs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=InaDdevs&theme=dracula&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
  
